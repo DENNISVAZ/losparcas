@@ -1,5 +1,5 @@
 const products = [
-  { id: "desert", name: "DESERT", country: "الإمارات العربية المتحدة / United Arab Emirates", flag: "", category: "All Over Deo Body Spray", image: "assets/images/emiradosarabes.png" },
+  { id: "desert", name: "DESERT", country: "الإمارات العربية المتحدة / United Arab Emirates", flag: "", category: "All Over Deo Body Spray", image: "assets/images/emiradosarabes.jpg" },
   { id: "horizon", name: "HORIZON", country: "Uruguay / Uruguay", flag: "", category: "All Over Deo Body Spray", image: "assets/images/uruguai.jpg" },
   { id: "legend", name: "LEGEND", country: "Brasil / Brazil", flag: "", category: "All Over Deo Body Spray", image: "assets/images/brasil.jpg" },
   { id: "frost", name: "FROST", country: "Schweiz / Switzerland", flag: "", category: "All Over Deo Body Spray", image: "assets/images/suica.jpg" },  
