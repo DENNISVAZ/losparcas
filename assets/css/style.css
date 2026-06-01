@@ -53,6 +53,16 @@ body {
   text-align: center;
 }
 
+/* Configuração para celular (Telas até 768px) */
+@media (max-width: 768px) {
+    .hero {
+        /* Nova imagem vertical para o celular */
+        background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3)), url('../images/banner/losparcas-mobile.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+}
+
 .hero-content h1 {
   font-size: 4.5rem;
   color: #ffd700;
