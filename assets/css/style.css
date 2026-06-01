@@ -44,7 +44,7 @@ body {
 
 .hero {
   height: 100vh;
-  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.8)), url('assets/images/banner/hero.jpg');
+  background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3)), url('../images/banner/losparcas.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
@@ -134,3 +134,12 @@ body {
   border-radius: 8px;
   cursor: pointer;
 }
+
+.redes-sociais {
+  display: flex;
+  gap: 20px;
+  font-size: 30px; /* Tamanho dos ícones */
+}
+.whatsapp { color: #25D366; }
+.instagram { color: #E1306C; }
+a { text-decoration: none; }
